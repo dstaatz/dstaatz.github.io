@@ -1,0 +1,30 @@
+html {
+  font-family: 'Georgia', 'Times', serif;
+  background-color: Black;
+}
+
+a {
+	color: LimeGreen;
+	text-decoration: none;
+}
+
+h1 {
+	color: White;
+	text-align: center;
+}
+
+h2{
+	color: Lime;
+}
+
+p{
+	color: White
+}
+
+img {
+	border-radius: 100%;
+}
+
+ul {
+	color: White;
+}
