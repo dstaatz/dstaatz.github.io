@@ -1,0 +1,19 @@
+{
+    "tasks": [
+        {
+            "label": "Serve Site",
+            "type": "process",
+            "command": "zola",
+            "args": ["serve"],
+            "presentation": {
+                "echo": true,
+                "reveal": "never",
+                "focus": false,
+                "panel": "dedicated",
+                "showReuseMessage": true,
+                "clear": true
+            },
+            "problemMatcher": []
+        }
+    ],
+}
